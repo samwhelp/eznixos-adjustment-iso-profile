@@ -1,5 +1,16 @@
 # eznixos-adjustment-iso-profile
-eznixos-adjustment-iso-profile
+
+
+## Notice
+
+**This is develop version**
+
+**Please use stable version**
+
+| Link |
+| --- |
+| [eznixos-adjustment-iso-profile-start](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start) |
+| [eznixos-adjustment-iso-profile-prototype](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype) |
 
 
 ## EznixOS / ISO Build System
