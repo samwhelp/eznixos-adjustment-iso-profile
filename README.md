@@ -20,8 +20,8 @@
 
 | eznix12X |
 | --- |
-| [orginal](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/orginal/2023-07-02) |
-| [adjust](https://github.com/samwhelp/eznixos-adjustment/tree/main/project/eznixos-adjustment-system/eznixos-adjustment-iso-profile/recipe/debian-12/adjust/eznixos-adjustment-xfce) |
+| [orginal](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/orginal/2023-07-02) |
+| [adjust](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/develop/adjust/eznixos-adjustment-xfce) |
 
 
 ## EznixOS / ISO Build System / Start
