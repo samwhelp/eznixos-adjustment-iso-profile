@@ -13,10 +13,10 @@
 | [eznixos-adjustment-iso-profile-prototype](https://github.com/samwhelp/eznixos-adjustment-iso-profile-prototype) |
 
 
-## EznixOS / ISO Build System
+## EznixOS / ISO Build Profile
 
 
-## EznixOS / ISO Build System / Orginal
+## EznixOS / ISO Build Profile / Orginal
 
 | eznix12X |
 | --- |
@@ -24,7 +24,7 @@
 | [adjust](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/develop/adjust/eznixos-adjustment-xfce) |
 
 
-## EznixOS / ISO Build System / Start
+## EznixOS / ISO Build Profile / Start
 
 | en_us | zh_tw |
 | --- | --- |
@@ -35,7 +35,7 @@
 | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/en_us/eznixos-adjustment-gnome-shell) | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/zh_tw/eznixos-adjustment-gnome-shell) |
 
 
-## EznixOS / ISO Build System / Prototype
+## EznixOS / ISO Build Profile / Prototype
 
 | en_us | zh_tw |
 | --- | --- |
