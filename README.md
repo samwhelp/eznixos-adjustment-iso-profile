@@ -40,3 +40,13 @@
 | en_us | zh_tw |
 | --- | --- |
 | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/prototype/locale/en_us/eznixos-adjustment-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/prototype/locale/zh_tw/eznixos-adjustment-xfce) |
+
+
+## EznixOS / Link
+
+| EznixOS |
+| --- |
+| YouTube / [Eznix](https://www.youtube.com/c/eznix/videos) |
+| SourceForge / [EznixOS](https://sourceforge.net/projects/eznixos/) |
+| OSDN / [EznixOS](https://osdn.net/projects/eznix-os/) |
+
