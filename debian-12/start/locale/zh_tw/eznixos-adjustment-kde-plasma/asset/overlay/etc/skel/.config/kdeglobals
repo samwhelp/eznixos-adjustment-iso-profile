@@ -136,6 +136,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [General]
+AllowKDEAppsToRememberWindowPositions=false
 ColorScheme=BreezeDark
 XftSubPixel=none
 fixed=Monospace,12,-1,5,50,0,0,0,0,0
