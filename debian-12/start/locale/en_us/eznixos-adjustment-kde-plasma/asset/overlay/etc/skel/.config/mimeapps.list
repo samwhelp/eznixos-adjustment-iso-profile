@@ -1,5 +1,5 @@
 [Added Associations]
-inode/directory=sublime_text.desktop;xftt.desktop;atom.desktop;code-oss.desktop;pcmanfm-qt.desktop;thunar.desktop;pcmanfm.desktop;
+inode/directory=org.kde.dolphin.desktop;sublime_text.desktop;xftt.desktop;atom.desktop;code-oss.desktop;pcmanfm-qt.desktop;thunar.desktop;pcmanfm.desktop;
 image/png=viewnior.desktop;opset-wallpaper-feh.desktop;xftt.desktop;gpicview.desktop;
 image/jpeg=viewnior.desktop;opset-wallpaper-feh.desktop;xftt.desktop;gpicview.desktop;
 image/gif=viewnior.desktop;opset-wallpaper-feh.desktop;xftt.desktop;gpicview.desktop;
