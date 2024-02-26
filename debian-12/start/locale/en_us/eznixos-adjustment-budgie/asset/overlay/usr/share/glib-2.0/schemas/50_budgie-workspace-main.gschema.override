@@ -1,9 +1,0 @@
-
-
-[org.gnome.desktop.wm.preferences:Budgie]
-num-workspaces=5
-workspace-names=['File', 'Edit', 'Web', 'Term', 'Misc']
-
-
-[org.gnome.mutter:Budgie]
-dynamic-workspaces=true
