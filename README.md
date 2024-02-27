@@ -39,6 +39,11 @@
 | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/en_us/eznixos-adjustment-gnome-shell) | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/locale/zh_tw/eznixos-adjustment-gnome-shell) |
 
 
+| en_us | zh_tw |
+| --- | --- |
+| [eznixos-adjustment-lxqt-with-openbox](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start-lxqt/tree/main/debian-12/locale/en_us/eznixos-adjustment-lxqt-with-openbox) | eznixos-adjustment-lxqt-with-openbox |
+
+
 ## EznixOS / ISO Build Profile / Prototype
 
 | en_us | zh_tw |
