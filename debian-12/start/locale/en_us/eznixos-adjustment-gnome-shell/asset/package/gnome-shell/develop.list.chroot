@@ -1,4 +1,4 @@
- 
+
 
 ##
 ## # Develop
@@ -22,3 +22,7 @@ meld
 php-cli
 
 sassc
+
+inkscape
+
+optipng
