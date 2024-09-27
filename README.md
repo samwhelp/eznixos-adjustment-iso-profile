@@ -20,7 +20,7 @@
 ## EznixOS / ISO Build Profile / Orginal
 
 | eznix12X |
-| --- |
+| -------- |
 | [orginal](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/orginal/2023-07-02) |
 | [adjust](https://github.com/samwhelp/eznixos-adjustment-iso-profile/tree/main/debian-12/start/develop/adjust/eznixos-adjustment-xfce) |
 
@@ -30,7 +30,7 @@
 ## EznixOS / ISO Build Profile / Start
 
 | en_us | zh_tw |
-| --- | --- |
+| ----- | ----- |
 | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/en_us/eznixos-adjustment-xfce) | [eznixos-adjustment-xfce](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-xfce) |
 | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/en_us/eznixos-adjustment-kde-plasma) | [eznixos-adjustment-kde-plasma](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-kde-plasma) |
 | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/en_us/eznixos-adjustment-gnome-shell) | [eznixos-adjustment-gnome-shell](https://github.com/samwhelp/eznixos-adjustment-iso-profile-start/tree/main/debian-12/locale/zh_tw/eznixos-adjustment-gnome-shell) |
